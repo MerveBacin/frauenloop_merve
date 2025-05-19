@@ -61,5 +61,5 @@ This is a **learning-in-public** project — feel free to explore, use, or give 
 
 ## 📧 Contact
 
-Feel free to reach out via GitHub Issues or connect with me on [https://www.linkedin.com/in/mervebacin/](#) (optional).
+Feel free to reach out via GitHub Issues or connect with me on [https://www.linkedin.com/in/mervebacin/](#) .
 
