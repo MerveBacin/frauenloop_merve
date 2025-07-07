@@ -1,0 +1,14 @@
+# Ignore Terraform state and cache files
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+.crash
+.terraform.lock.hcl
+
+# Ignore backup or temp files
+*.backup
+*.log
+*.tmp
+
+# macOS system files (optional)
+.DS_Store
