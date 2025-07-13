@@ -1,1 +1,15 @@
 .DS_Store
+
+# Terraform state
+*.tfstate
+*.tfstate.backup
+
+# Terraform directory
+.terraform/
+
+# SSH keys (precaution)
+*.pem
+*.key
+
+# VS Code folder (optional)
+.vscode/
